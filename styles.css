@@ -1,6 +1,16 @@
 /*  your css code here. If applicable */
 h1{
-	background-image:url("https://www.globalfocusmagazine.com/wp-content/uploads/2020/02/Engaging_with_technology-scaled.jpg");background-size:cover;height:350px ;width:700px;
-	text-align:center;
 	color:white;
+}
+body{
+	background-image:url("https://www.globalfocusmagazine.com/wp-content/uploads/2020/02/Engaging_with_technology-scaled.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:center;
+	height:100vh;
+	display:flex;
+	margin:0;
+	justify-content:center;
+	//align-items:center;
+	
 }
